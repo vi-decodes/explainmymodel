@@ -1,10 +1,10 @@
-# ExplainMyModel (MVP)
+# ExplainMyModel 
 
 An interactive Streamlit app to **train valid models for your dataset** (classification or regression),
 and **explain** them with **SHAP** (global) and **LIME** (local), with **guardrails** that prevent invalid
 model–data pairings and stale explanations.
 
-## Features (MVP)
+## Features 
 - Upload CSV or use built-in demo datasets
 - Auto-detect **problem type** (classification vs regression)
 - Show **only valid models** for the detected task
