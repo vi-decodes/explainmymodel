@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.streamlit/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs / Backups ---
+*.log
+*.bak
+*.csv~
